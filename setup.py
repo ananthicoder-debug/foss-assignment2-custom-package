@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setup(
     name="foss-fincalc",
-    version="1.0.0",
+    version="1.1.0",
     author="ananthicoder-debug",
     author_email="ananthigomathi202006@gmail.com",
     description="Open Source Financial and Loan Analytics Package for FOSS Course 19CSP01",
